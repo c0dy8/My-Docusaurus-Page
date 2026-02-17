@@ -1,0 +1,27 @@
+{
+  "id": "Actividad Normalizacion/Normalizacion",
+  "title": "Ejercicios de Normalización",
+  "description": "Cuatro ejercicios prácticos aplicando 1FN, 2FN y 3FN.",
+  "source": "@site/docs/Actividad Normalizacion/Normalizacion.md",
+  "sourceDirName": "Actividad Normalizacion",
+  "slug": "/Actividad Normalizacion/Normalizacion",
+  "permalink": "/docs/Actividad Normalizacion/Normalizacion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Actividad Normalizacion/Normalizacion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ejercicios de Normalización",
+    "description": "Cuatro ejercicios prácticos aplicando 1FN, 2FN y 3FN."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Sistema de Gestión Académica en SQL",
+    "permalink": "/docs/Actividad Moodle W2/Desarrolo Actividad"
+  },
+  "next": {
+    "title": "Ejercicios SQL",
+    "permalink": "/docs/Avtividad DBeaver/documentacion"
+  }
+}

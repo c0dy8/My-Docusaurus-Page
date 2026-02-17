@@ -1,0 +1,27 @@
+{
+  "id": "Actividad Moodle W2/Desarrolo Actividad",
+  "title": "Sistema de Gestión Académica en SQL",
+  "description": "Proyecto completo de modelado relacional, consultas avanzadas, vistas, roles y transacciones en MySQL.",
+  "source": "@site/docs/Actividad Moodle W2/Desarrolo Actividad.md",
+  "sourceDirName": "Actividad Moodle W2",
+  "slug": "/Actividad Moodle W2/Desarrolo Actividad",
+  "permalink": "/docs/Actividad Moodle W2/Desarrolo Actividad",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Actividad Moodle W2/Desarrolo Actividad.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Sistema de Gestión Académica en SQL",
+    "description": "Proyecto completo de modelado relacional, consultas avanzadas, vistas, roles y transacciones en MySQL."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Ejercicios de Normalización",
+    "permalink": "/docs/Actividad Normalizacion/Normalizacion"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": "Avtividad DBeaver/documentacion",
+  "title": "Ejercicios SQL",
+  "description": "Práctica de consultas SQL organizadas por niveles.",
+  "source": "@site/docs/Avtividad DBeaver/documentacion.md",
+  "sourceDirName": "Avtividad DBeaver",
+  "slug": "/Avtividad DBeaver/documentacion",
+  "permalink": "/docs/Avtividad DBeaver/documentacion",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Avtividad DBeaver/documentacion.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "Ejercicios SQL",
+    "description": "Práctica de consultas SQL organizadas por niveles."
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Ejercicios de Normalización",
+    "permalink": "/docs/Actividad Normalizacion/Normalizacion"
+  }
+}
